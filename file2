@@ -1,4 +1,6 @@
 git stash
 git reset
 git stash save
+git stash list
+git stash pop
 
