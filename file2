@@ -6,5 +6,4 @@ git stash pop
 git stash drop
 git stash clear
 stash@{0}
-I am going to add this for revert command
-git reset command
+
